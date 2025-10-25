@@ -148,7 +148,7 @@ activemq-data/
 *.sage.py
 
 # Environments
-.env
+#.env
 .envrc
 .venv
 env/
@@ -220,3 +220,9 @@ allure-results
 allure-report
 
 .DS_Store
+
+# testing artifacts
+*.html
+*.json
+videos
+tracing
