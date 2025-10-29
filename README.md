@@ -18,8 +18,8 @@ for organizing test code with clear, maintainable scripts.
 To get started, clone the project repository using Git:
 
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/dvs-25/autotests-ui.git
+cd autotests-ui
 ```
 
 ### Create a Virtual Environment
